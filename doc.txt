@@ -1,0 +1,1 @@
+Este codigo gera uma animação de terminal
